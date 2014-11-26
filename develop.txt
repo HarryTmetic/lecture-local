@@ -1,0 +1,2 @@
+When you do something new, create a new branch and work in it.
+Once done, it will marge into 'master'.
